@@ -132,6 +132,7 @@ REF_LABEL=网站首页
 
 由于中国国内访问，时常打不开，你可以访问下面镜像网站。
 
+- [btaw.cn](https://btaw.cn/qr/)
 - [quickref.cn](https://quickref.cn)
 - [ecdata.cn](http://ref.ecdata.cn)
 - [aibk.cn](https://quickref.aibk.cn)
